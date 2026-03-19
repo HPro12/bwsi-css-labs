@@ -40,6 +40,7 @@ def simple_calculator(operation: str, num1: float, num2: float) -> float:
 def main():
     
     print(f"===== Simple Calculator =====")
+    print("Hi everyone, my name is Haoyu, and I'm from Hong Kong and Andover, MA. I like to swim and play soccer among many sports.")
 
     # Ask the user for sample input    
     num1 = float(input("Enter the first number: "))
